@@ -1,0 +1,143 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "construction",
+            "options": [
+                { "id": 1, "name": "General Construction" },
+                { "id": 2, "name": "Carpentry" },
+                { "id": 3, "name": "Handyperson" },
+                { "id": 4, "name": "Application installation, service and repair" },
+                { "id": 5, "name": "Building Sign Installation" },
+                { "id": 6, "name": "Concrete Construction" },
+                { "id": 7, "name": "Door and Window installation" },
+                { "id": 8, "name": "Drywall and wall boarding work" },
+                { "id": 9, "name": "Electrical work" },
+                { "id": 10, "name": "Excavation and grading" },
+                { "id": 11, "name": "Fence and gate installation" },
+                { "id": 12, "name": "Glass dealer and glaziers" },
+                { "id": 13, "name": "Home window tinting" },
+                { "id": 14, "name": "HVAC work" },
+                { "id": 15, "name": "Landscaping and lawn care" },
+                { "id": 16, "name": "Masonry work" },
+                { "id": 17, "name": "Painting" },
+                { "id": 18, "name": "Paperhangers" },
+                { "id": 19, "name": "Paving and asphalt installation, service and repair" },
+                { "id": 20, "name": "Plastering or stucco work" },
+                { "id": 21, "name": "Play equipment construction and assembly" },
+                { "id": 22, "name": "Plumbing" },
+                { "id": 23, "name": "Roofing" },
+                { "id": 24, "name": "Septic tank system installation, service and repair" },
+                { "id": 25, "name": "Siding installation, service and repair" },
+                { "id": 26, "name": "Stair construction" },
+                { "id": 27, "name": "Tile, stone, and flooring" },
+                { "id": 28, "name": "Waterproofing" }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Food & Beverages",
+            "options": [
+                { "id": 1, "name": "Restaurant" },
+                { "id": 2, "name": "Bakery" },
+                { "id": 3, "name": "Caterer" },
+                { "id": 4, "name": "Coffee shop" },
+                { "id": 5, "name": "Food Truck" },
+                { "id": 6, "name": "Grocery store" }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Retail & E-Commerce",
+            "options": [
+                { "id": 1, "name": "E-Commerce" },
+                { "id": 2, "name": "Retail store" },
+                { "id": 3, "name": "Convenience store" },
+                { "id": 4, "name": "Art and craft store" },
+                { "id": 5, "name": "Auction house" },
+                { "id": 6, "name": "AV equipment rental for events" },
+                { "id": 7, "name": "Bike rentals" },
+                { "id": 8, "name": "Bike shop" },
+                { "id": 9, "name": "Book store" },
+                { "id": 10, "name": "Candle store" },
+                { "id": 11, "name": "Clothing store" },
+                { "id": 12, "name": "Departmental store" },
+                { "id": 13, "name": "Discount store" },
+                { "id": 14, "name": "Dumpster store" },
+                { "id": 15, "name": "Electrical store" },
+                { "id": 16, "name": "Eye and Optician store" },
+                { "id": 17, "name": "Fabric store" },
+                { "id": 18, "name": "Farmer market" },
+                { "id": 19, "name": "Flea market" },
+                { "id": 20, "name": "Florist" },
+                { "id": 21, "name": "Furniture rental" },
+                { "id": 22, "name": "Furniture store" },
+                { "id": 23, "name": "Hardware store" },
+                { "id": 24, "name": "Hobby store" },
+                { "id": 25, "name": "Home and garden retailers" },
+                { "id": 26, "name": "Horse equipment store" },
+                { "id": 27, "name": "Jewelry store" },
+                { "id": 28, "name": "Knife sharpening" },
+                { "id": 29, "name": "Laundromat" },
+                { "id": 30, "name": "Lighting store" },
+                { "id": 31, "name": "Luggage store" },
+                { "id": 32, "name": "Medical supplies store" },
+                { "id": 33, "name": "Nurseries and gardening shop" },
+                { "id": 34, "name": "Packing supplies store" },
+                { "id": 35, "name": "Paint store" },
+                { "id": 36, "name": "Party equipment rentals" },
+                { "id": 37, "name": "Popcorn shop" },
+                { "id": 38, "name": "Screen printing and t-shirt printing store" },
+                { "id": 39, "name": "Self storage" },
+                { "id": 40, "name": "Shopping center" },
+                { "id": 41, "name": "Signmaking" },
+                { "id": 42, "name": "Speciality food" },
+                { "id": 43, "name": "Sporting goods retailer" },
+                { "id": 44, "name": "Toy store" },
+                { "id": 45, "name": "Vitamins and supplement store" }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Cleaning",
+            "options":[
+                {"id":1,"name":"Janitorial service"},
+                {"id":2,"name":"House cleaning and maid service"},
+                {"id":3,"name":"Carper cleaning"},
+                {"id":4,"name":"Debris removal"},
+                {"id":5,"name":"Floor waxing"},
+                {"id":6,"name":"Septic tank system cleaning"},
+                {"id":7,"name":"Snow and ice removal"},
+                {"id":8,"name":"window cleaning"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Other Industries",
+            "options":[
+                {"id":1,"name":"Food Delivery"},
+                {"id":2,"name":"Food Banks"},
+                {"id":3,"name":"Food Manufacturing"},
+                {"id":4,"name":"Food Sefty Training"},
+                {"id":5,"name":"Food Truck"},
+                {"id":6,"name":"Speciality food"},
+                {"id":7,"name":"Restaurant"},
+                {"id":8,"name":"Caterer"},
+                {"id":9,"name":"Event help with wait staff"},
+                {"id":10,"name":"Grocery Store"},
+                {"id":11,"name":"Travel Guides"},
+                {"id":12,"name":"Vending Machine operator"},
+                {"id":13,"name":"Bakery"},
+                {"id":14,"name":"Coffee shop"},
+                {"id":15,"name":"Seafood market"},
+                {"id":16,"name":"General contractor"},
+                {"id":17,"name":"Electrical work"},
+                {"id":18,"name":"message Therapist"},
+                {"id":19,"name":"Sports Coach"}
+                
+            ]
+        }
+
+
+    ]
+}

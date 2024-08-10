@@ -1,0 +1,105 @@
+@font-face {
+	font-family: 'Barlow';
+	src: url('../../fonts/Barlow-Regular.ttf');
+	font-weight: 400;
+}
+@font-face {
+	font-family: 'Barlow';
+	src: url('../../fonts/Barlow-Medium.ttf');
+	font-weight: 500;
+}
+@font-face {
+	font-family: 'Barlow';
+	src: url('../../fonts/Barlow-SemiBold.ttf');
+	font-weight: 600;
+}
+@font-face {
+	font-family: 'Barlow';
+	src: url('../../fonts/Barlow-Bold.ttf');
+	font-weight: 700;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('../../fonts/OpenSans-Regular.ttf');
+	font-weight: normal;
+}
+
+body{background-color: #f5f5f5; font-family: 'Barlow', sans-serif; font-weight:400; font-size: 1rem;}
+p:last-child{
+    margin-bottom: 0;
+}
+#toolbarContainer {display: none!important;}
+.title-bar h1 { width: fit-content; float: left; }
+.title-bar a { margin-left: 10px; font-size: 20px; line-height: 34px; }
+.hide { display: none!important; }
+.overlay {
+	display: none;
+	background-color: #000;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 91;
+    opacity: 0.6;
+}
+
+.upload-wrapper {
+	display: none;
+	position: absolute;
+	z-index: 92;
+	background-color: #f0f0f0;
+	text-align: center;
+	padding: 40px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.upload-wrapper .file-name { margin-bottom: 10px; }
+
+.nav-sidebar>.nav-item a { font-size: 1rem; }
+
+input[type=number]:not(.arrownd)::-webkit-inner-spin-button, 
+input[type=number]:not(.arrownd)::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.pos-rel { position: relative; }
+.padr30 { padding-right: 30px; }
+.padr62 { padding-right: 62px; }
+.overlap-input-text { position: absolute; right: 12px; top: 52%; }
+.upload-image-view img { max-width: 500px; max-height: 300px; }
+.mb-100 { margin-bottom: 100px !important; }
+.page-form-image { margin-bottom: 20px; cursor: pointer; }
+.bgcol-gry { background-color: #F4F6F9!important; }
+.lst-adv-src { float: right; }
+
+.text-help{
+    font-size: 0.875rem;
+    font-style: italic;
+    color: #777;
+}
+.login-form{
+    height: 100%;
+}
+.card-header.d-flex{
+    align-items: center;
+    justify-content: space-between;
+}
+table.dataTable{
+    border-collapse: collapse !important;
+}
+.req{
+    color: #f00;
+    font-family: Open Sans;
+    font-weight: normal;
+}
+
+
+
+@media (min-width: 992px) {
+    html{
+        font-size: 16px;
+    }
+}
