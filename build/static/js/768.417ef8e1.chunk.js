@@ -1,0 +1,1 @@
+(self.webpackChunkfrontend_ui=self.webpackChunkfrontend_ui||[]).push([[768],{2768:()=>{}}]);
